@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Igor Grégoire\Desktop\raytracing\build\CMakeFiles\8113f583b6b45c35f76aad140ddb528c\Experimental.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Igor Grégoire\Desktop\raytracing\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Igor Grégoire\Desktop\raytracing\build\CMakeFiles\Experimental" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F0C6AEB4-9070-3E3C-BD27-0DE2CB4E302B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
